@@ -5,7 +5,6 @@ using UnityEngine;
 public class Milk : Food
 {
     private int count;
-
     // Start is called before the first frame update
     void Start()
     {
